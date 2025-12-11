@@ -28,10 +28,9 @@
 ---
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=AtharvUrunkar&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=AtharvUrunkar&layout=compact&theme=tokyonight" />
-</p>
+
+  <[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtharvUrunkar)](https://github.com/AtharvUrunkar/github-readme-stats)
+
 
 
 ---
