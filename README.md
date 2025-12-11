@@ -26,12 +26,6 @@
 - Git, GitHub, Postman, MySQL, Gradle/Maven
 
 ---
-### 📊 GitHub Stats
-
-
-  <[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtharvUrunkar)](https://github.com/AtharvUrunkar/github-readme-stats)
-
-
 
 ---
 
