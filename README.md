@@ -73,7 +73,14 @@
 </p>
 
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AtharvUrunkar&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvUrunkar&layout=compact&theme=radical" />
+</p>
+
+---
 ### 🎯 Quote I follow
 
 > *"Code. Break. Learn. Repeat."*
